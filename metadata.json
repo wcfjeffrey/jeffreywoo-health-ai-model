@@ -1,0 +1,7 @@
+{
+  "name": "JeffreyWooHealth",
+  "description": "The ultimate daily guide for body reshaping and smarter eating habits, featuring AI food photo analysis and personalized habit building.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
