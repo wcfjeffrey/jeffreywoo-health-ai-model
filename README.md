@@ -9,7 +9,7 @@ Not your typical health app!
 ## ✨ What Makes It Different
 Most apps just count calories. **JeffreyWooHealth** goes further:
 - 🧠 **Personalized Plans** — tailored to your lifestyle and goals  
-- 📸 **Snap & Track** — take a photo of your meal or scan a nutrition label for instant AI analysis*  
+- 📸 **Snap & Track** — take a photo of your meal or scan a nutrition label for instant AI analysis  
 - 📊 **Smarter Insights** — see your nutrition score, macros, and more — beyond just numbers  
 - 💪 **Sustainable Habits** — tools to help you lose weight, gain muscle, or maintain balance  
 
