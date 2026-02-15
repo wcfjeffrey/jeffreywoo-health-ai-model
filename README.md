@@ -18,11 +18,11 @@ Whether you want to slim down, build strength, or simply live better every day, 
 
 Disclaimer: This app provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider before making health-related decisions.
 
-## Run and deploy your AI Studio app
+## Run and deploy this AI Studio app
 
-This contains everything you need to run your app locally.
+This contains everything you need to run this app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1UOg6MQEjUHKR1WiJoWYyRq6RfmtG-TVd
+View this app in AI Studio: https://ai.studio/apps/drive/1UOg6MQEjUHKR1WiJoWYyRq6RfmtG-TVd
 
 ## Run Locally
 
