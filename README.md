@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/JeffreyWooHealth.png" alt="GHBanner" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth.png" alt="JeffreyWooHealthBanner" width="1200" height="600" />
 </div>
 
 Not your typical health app!
@@ -28,9 +28,25 @@ View this app in AI Studio: https://ai.studio/apps/drive/1UOg6MQEjUHKR1WiJoWYyRq
 
 **Prerequisites:**  Node.js
 
-
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) file to your Gemini API key after you create [.env.local](.env.local) file
 3. Run the app:
    `npm run dev`
+
+## Sample
+
+  <img src="assets/JeffreyWooHealth1.png" alt="JeffreyWooHealth1" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth2.png" alt="JeffreyWooHealth2" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth3.png" alt="JeffreyWooHealth3" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth4.png" alt="JeffreyWooHealth4" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth5.png" alt="JeffreyWooHealth5" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth6.png" alt="JeffreyWooHealth6" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth7.png" alt="JeffreyWooHealth7" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth8.png" alt="JeffreyWooHealth8" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth9.png" alt="JeffreyWooHealth9" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth10.png" alt="JeffreyWooHealth10" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth11.png" alt="JeffreyWooHealth11" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth12.png" alt="JeffreyWooHealth12" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth13.png" alt="JeffreyWooHealth13" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth14.png" alt="JeffreyWooHealth14" width="1200" height="600" />
