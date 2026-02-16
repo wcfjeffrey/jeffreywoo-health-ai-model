@@ -18,7 +18,7 @@ Whether you want to slim down, build strength, or simply live better every day, 
 
 Disclaimer: This app provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider before making health-related decisions.
 
-## Run Locally
+## ⚙️ Run Locally
 
 **Prerequisites:**  Node.js
 
@@ -28,7 +28,7 @@ Disclaimer: This app provides AI-driven insights for informational purposes only
 3. Run the app:
    `npm run dev`
 
-## Sample
+## 📋 Sample
 
   <img src="assets/JeffreyWooHealth1.png" alt="JeffreyWooHealth1" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth2.png" alt="JeffreyWooHealth2" width="1200" height="600" />
