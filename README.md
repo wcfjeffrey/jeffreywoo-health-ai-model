@@ -13,7 +13,7 @@ Most apps just count calories. **JeffreyWooHealth** goes further:
 - 📊 **Smarter Insights** — see your nutrition score, macros, and more — beyond just numbers  
 - 💪 **Sustainable Habits** — tools to help you lose weight, gain muscle, or maintain balance  
 
-## 🚀 Why Choose JeffreyWooHealth?
+## 🚀 Why Choose JeffreyWooHealth
 Whether you want to slim down, build strength, or simply live better every day, **JeffreyWooHealth** is your AI-powered guide to lasting wellness. It’s based on experts' advice, works everywhere, and keeps your data secure.
 
 Disclaimer: This app provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider before making health-related decisions.
