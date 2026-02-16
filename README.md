@@ -48,7 +48,7 @@ View this app in AI Studio: https://ai.studio/apps/drive/1UOg6MQEjUHKR1WiJoWYyRq
   <img src="assets/JeffreyWooHealth10.png" alt="JeffreyWooHealth10" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth11.png" alt="JeffreyWooHealth11" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth12.png" alt="JeffreyWooHealth12" width="1200" height="600" />
-  <img src="assets/JeffreyWooHealth13.png" alt="JeffreyWooHealth13" width="1200" height="600" />
-  <img src="assets/JeffreyWooHealth14.png" alt="JeffreyWooHealth14" width="1200" height="600" />
+  <img src="assets/JeffreyWooHealth13.png" alt="JeffreyWooHealth13" width="1200" height="1600" />
+  <img src="assets/JeffreyWooHealth14.png" alt="JeffreyWooHealth14" width="1200" height="1100" />
   <img src="assets/JeffreyWooHealth15.png" alt="JeffreyWooHealth13" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth16.png" alt="JeffreyWooHealth14" width="1200" height="600" />
