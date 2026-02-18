@@ -56,22 +56,22 @@ export const TRANSLATIONS = {
   },
   zh: {
     welcome: "JeffreyWooHealth",
-    tagline: "您的日常身材与习惯指南",
-    onboarding: "开启您的蜕变之旅",
-    track: "记录饮食",
+    tagline: "您的日常身材與習慣指南",
+    onboarding: "開啟您的蛻變之旅",
+    track: "記錄飲食",
     dashboard: "今日",
-    tracker: "日记",
-    plan: "我的计划",
-    bookmarks: "收藏夹",
+    tracker: "日記",
+    plan: "我的計劃",
+    bookmarks: "收藏夾",
     bmi: "BMI 分析",
-    target: "目标体重",
-    pace: "每周进度",
-    score: "每日评分",
+    target: "目標體重",
+    pace: "每週進度",
+    score: "每日評分",
     expenditure: "每日消耗",
-    protein: "蛋白质",
+    protein: "蛋白質",
     carbs: "碳水",
     fat: "脂肪",
     alerts: "健康提示",
-    total: "总热量"
+    total: "總熱量"
   }
 };
