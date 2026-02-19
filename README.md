@@ -21,7 +21,8 @@ Whether you want to slim down, build strength, or simply live better every day, 
 2. Run **JeffreyWooHealth** to generate AI-powered nutrition insights
 3. Track progress toward your health goals
 
-Disclaimer: This app provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider before making health-related decisions.
+## ⚖️ Disclaimer
+This app provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider before making health-related decisions.
 
 ## ⚙️ Run Locally
 
