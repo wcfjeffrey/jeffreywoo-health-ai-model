@@ -22,7 +22,7 @@ Whether you want to slim down, build strength, or simply live better every day, 
 3. Track progress toward your health goals
 
 ## ⚖️ Disclaimer
-This app provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider before making health-related decisions.
+**JeffreyWooHealth** provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider before making health-related decisions.
 
 ## ⚙️ Run Locally
 
