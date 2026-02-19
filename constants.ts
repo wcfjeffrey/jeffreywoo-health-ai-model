@@ -30,7 +30,7 @@ export const ACTIVITY_LEVELS = [
 ];
 
 export const DIETARY_PREFERENCES = [
-  'No Preference', 'Vegetarian', 'Vegan', 'Pescatarian', 'Keto', 'Paleo'
+  'No Preference', 'Mediterranean', 'DASH', 'Vegan', 'Vegetarian', 'Pescatarian', 'Keto', 'Paleo', 'Western', 'Low-carb', 'Flexitarian', 'Carnivore', 'Whole30' 
 ];
 
 export const TRANSLATIONS = {
