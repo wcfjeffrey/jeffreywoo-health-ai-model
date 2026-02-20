@@ -27,7 +27,7 @@ Whether you want to slim down, build strength, or simply live better every day, 
 - **UI** — Standard React components
 
 ## ⚖️ Disclaimer
-**JeffreyWooHealth** provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult a qualified healthcare provider or professional nutritionist before making health-related decisions.
+**JeffreyWooHealth** provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult qualified healthcare providers or professional nutritionists before making health-related decisions.
 
 ## ⚙️ Run Locally
 
