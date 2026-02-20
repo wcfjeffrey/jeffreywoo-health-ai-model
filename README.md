@@ -7,7 +7,7 @@ Not your typical health app!
 **JeffreyWooHealth** is a new operating system for your wellness — designed to help you achieve your dream body while building healthier, smarter eating habits.
 
 ## ✨ What Makes It Different
-Most apps just count calories. **JeffreyWooHealth** goes further:
+Most apps just count calories. **JeffreyWooHealth** goes further:  
 • 🧠 **Personalized Plans** — tailored to your lifestyle and goals  
 • 📸 **Snap & Track** — take a photo of your meal or scan a nutrition label for instant AI analysis  
 • 📊 **Smarter Insights** — see your nutrition score, macros, and more — beyond just numbers  
