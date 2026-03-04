@@ -4,7 +4,9 @@
 
 Not your typical health app!
 
-**JeffreyWooHealth** is a new operating system for your wellness — designed to help you achieve your dream body while building healthier, smarter eating habits.
+**JeffreyWooHealth** is an AI-powered wellness & nutrition app designed to help users/staff make smarter health choices. By combining advanced artificial intelligence with practical nutrition insights. It analyzes food, lifestyle & wellness data to deliver personalized recommendations. Its goal is to empower users/staff to improve their daily habits, track progress, & achieve healthier living through technology-driven guidance.
+
+N.B. Workforce health enhancement can reduce corporate medical & insurance costs, boost productivity & engagement, & ultimately support overall operations & sustainable business performance.
 
 ## ✨ What Makes It Different
 Most apps just count calories. **JeffreyWooHealth** goes further:  
