@@ -39,7 +39,7 @@ The app incorporates glycemic control principles, helping users choose foods tha
 - **Dietary Reference Intakes (DRIs)**  
 AI recommendations align with the World Health Organization (WHO) and the Food and Agriculture Organization (FAO) guidelines, ensuring micronutrient sufficiency (vitamins, minerals) for overall health.  
 - **Nutritional Epidemiology Insights**  
-The app leverages population-level findings (e.g., Mediterranean diet benefits, Dietary Approaches to Stop Hypertension "DASH" diet for hypertension) to tailor recommendations to user profiles.  
+The app leverages population-level findings (e.g., Mediterranean diet benefits, Dietary Approaches to Stop Hypertension "DASH" diet) to tailor recommendations to user profiles.  
 - **Behavioral Nutrition Models**  
 Inspired by Social Cognitive Theory and Health Belief Model, the app nudges users toward sustainable eating habits, not just short-term diets.
 
