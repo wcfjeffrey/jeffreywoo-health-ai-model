@@ -24,7 +24,7 @@ Whether you want to slim down, build strength, or simply live better every day, 
 3. Track progress toward your health goals
 
 ## 🤖 Tech Stack
-- **Language** — TypeScript, HTML
+- **Language** — TypeScript, HTML  
 - **Framework** — React (with Vite as the build tool)  
 - **UI** — Standard React components, styled via JSX/TSX
 - **Runtime** — Node.js
