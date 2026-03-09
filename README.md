@@ -29,6 +29,20 @@ Whether you want to slim down, build strength, or simply live better every day, 
 - **UI** — Standard React components, styled via JSX/TSX
 - **Runtime** — Node.js
 
+## 🍎 Nutritionist Theories Applied
+• **Macronutrient Balance (Carbohydrates, Proteins, Fats)**
+The app uses AI to recommend balanced macronutrient ratios based on Recommended Dietary Allowances (RDA) and Acceptable Macronutrient Distribution Ranges (AMDR), ensuring energy needs are met for fitness goals.
+• **Basal Metabolic Rate (BMR) & Total Energy Expenditure (TEE)**
+By applying Harris-Benedict and Mifflin-St Jeor equations, the app estimates caloric requirements, adjusting for activity levels to guide weight management strategies.
+• **Glycemic Index & Load** 
+The app incorporates glycemic control principles, helping users choose foods that stabilize blood sugar and reduce long-term metabolic risks.
+• **Dietary Reference Intakes (DRIs)** 
+AI recommendations align with WHO and FAO guidelines, ensuring micronutrient sufficiency (vitamins, minerals) for overall health.
+• **Nutritional Epidemiology Insights** 
+The app leverages population-level findings (e.g., Mediterranean diet benefits, DASH diet for hypertension) to tailor recommendations to user profiles.
+• **Behavioral Nutrition Models** 
+Inspired by Social Cognitive Theory and Health Belief Model, the app nudges users toward sustainable eating habits, not just short-term diets.
+
 ## 💡Transformation Impact
 This project demonstrates how innovation can reshape personal wellness management by:  
 • Digitizing lifestyle & nutrition workflows with AI‑driven analysis.  
