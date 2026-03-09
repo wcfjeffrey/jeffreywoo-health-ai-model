@@ -30,33 +30,33 @@ Whether you want to slim down, build strength, or simply live better every day, 
 - **Runtime** — Node.js
 
 ## 🍎 Nutritionist Theories Applied
-• **Macronutrient Balance (Carbohydrates, Proteins, Fats)**  
+- **Macronutrient Balance (Carbohydrates, Proteins, Fats)**  
 The app uses AI to recommend balanced macronutrient ratios based on Recommended Dietary Allowances (RDA) and Acceptable Macronutrient Distribution Ranges (AMDR), ensuring energy needs are met for fitness goals.  
-• **Basal Metabolic Rate (BMR) & Total Energy Expenditure (TEE)**  
+- **Basal Metabolic Rate (BMR) & Total Energy Expenditure (TEE)**  
 By applying Harris-Benedict and Mifflin-St Jeor equations, the app estimates caloric requirements, adjusting for activity levels to guide weight management strategies.  
-• **Glycemic Index & Load**  
+- **Glycemic Index & Load**  
 The app incorporates glycemic control principles, helping users choose foods that stabilize blood sugar and reduce long-term metabolic risks.  
-• **Dietary Reference Intakes (DRIs)**  
+- **Dietary Reference Intakes (DRIs)**  
 AI recommendations align with WHO and FAO guidelines, ensuring micronutrient sufficiency (vitamins, minerals) for overall health.  
-• **Nutritional Epidemiology Insights**  
+- **Nutritional Epidemiology Insights**  
 The app leverages population-level findings (e.g., Mediterranean diet benefits, DASH diet for hypertension) to tailor recommendations to user profiles.  
-• **Behavioral Nutrition Models**  
+- **Behavioral Nutrition Models**  
 Inspired by Social Cognitive Theory and Health Belief Model, the app nudges users toward sustainable eating habits, not just short-term diets.
 
 ## 💡Transformation Impact
 This project demonstrates how innovation can reshape personal wellness management by:  
-• Digitizing lifestyle & nutrition workflows with AI‑driven analysis.  
-• Empowering individuals to make informed, healthier decisions through personalized recommendations.  
-• Enhancing engagement & accountability with interactive dashboards & progress tracking.  
-• Driving digital transformation in health by turning raw data into actionable insights.  
-• Promoting responsible innovation with secure handling of sensitive health information.
+- Digitizing lifestyle & nutrition workflows with AI‑driven analysis.  
+- Empowering individuals to make informed, healthier decisions through personalized recommendations.  
+- Enhancing engagement & accountability with interactive dashboards & progress tracking.  
+- Driving digital transformation in health by turning raw data into actionable insights.  
+- Promoting responsible innovation with secure handling of sensitive health information.
 
 ## ⭐ Skills Strengthened
-• Full‑stack architecture for AI‑driven applications.  
-• Secure handling of sensitive health data with environment variables.  
-• AI model integration into real‑world health analysis workflows.  
-• File parsing & structured data transformation for actionable insights.  
-• State management in React (TypeScript + Vite) for interactive dashboards.
+- Full‑stack architecture for AI‑driven applications.  
+- Secure handling of sensitive health data with environment variables.  
+- AI model integration into real‑world health analysis workflows.  
+- File parsing & structured data transformation for actionable insights.  
+- State management in React (TypeScript + Vite) for interactive dashboards.
 
 ## ⚖️ Disclaimer
 **JeffreyWooHealth** provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult qualified healthcare providers or professional nutritionists before making health-related decisions.
