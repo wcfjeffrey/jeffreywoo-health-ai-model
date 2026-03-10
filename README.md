@@ -8,9 +8,9 @@ Not your typical health app!
 
 ## 🌍 Workforce Impact
 Enhancing employee health isn’t just personal—it’s strategic.  
-• 	Lower corporate medical & insurance costs  
-• 	Boost productivity & engagement  
-• 	Strengthen overall operations & sustainable business performance
+- Lower corporate medical & insurance costs  
+- Boost productivity & engagement  
+- Strengthen overall operations & sustainable business performance
 
 ## ✨ What Makes It Different
 Most apps just count calories. **JeffreyWooHealth** goes further:  
