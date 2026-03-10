@@ -6,7 +6,11 @@ Not your typical health app!
 
 **JeffreyWooHealth** is an AI-powered wellness & nutrition app designed to help users/staff make smarter health choices. By combining advanced artificial intelligence with practical nutrition insights. It analyzes food, lifestyle & wellness data to deliver personalized recommendations. Its goal is to empower users/staff to improve their daily habits, track progress, & achieve healthier living through technology-driven guidance.
 
-N.B. Workforce health enhancement can reduce corporate medical & insurance costs, boost productivity & engagement, & ultimately support overall operations & sustainable business performance.
+🌍 Workforce Impact
+Enhancing employee health isn’t just personal—it’s strategic.
+• 	Lower corporate medical & insurance costs
+• 	Boost productivity & engagement
+• 	Strengthen overall operations & sustainable business performance
 
 ## ✨ What Makes It Different
 Most apps just count calories. **JeffreyWooHealth** goes further:  
@@ -16,7 +20,7 @@ Most apps just count calories. **JeffreyWooHealth** goes further:
 - 💪 **Sustainable Habits** — tools to help you lose weight, gain muscle, or maintain balance  
 
 ## 🚀 Why Choose JeffreyWooHealth
-Whether you want to slim down, build strength, or simply live better every day, **JeffreyWooHealth** is your AI-powered guide to lasting wellness. It’s based on experts' advice, works everywhere, and keeps your data secure.
+Whether you want to slim down, build strength, or simply live better every day, **JeffreyWooHealth** is your AI-powered guide to lasting wellness. It’s based on experts' advice, works everywhere, and keeps your data secure for privacy.
 
 ## 📦 Getting Started
 1. Upload or take a photo of your meal
