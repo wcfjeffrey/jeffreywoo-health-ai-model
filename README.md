@@ -2,6 +2,8 @@
   <img src="assets/JeffreyWooHealth.png" alt="JeffreyWooHealthBanner" width="1200" height="600" />
 </div>
 
+## 📊 Overview
+
 Not your typical health app!
 
 **JeffreyWooHealth** is an AI-powered wellness & nutrition app designed to help users/staff make smarter health choices. By combining advanced artificial intelligence with practical nutrition insights. It analyzes food, lifestyle & wellness data to deliver personalized recommendations. Its goal is to empower users/staff to improve their daily habits, track progress, & achieve healthier living through technology-driven guidance.
