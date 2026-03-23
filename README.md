@@ -4,6 +4,11 @@
 
 ## 📊 Overview
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
+
 Not your typical health app!
 
 **JeffreyWooHealth** is an AI-powered wellness & nutrition app designed to help users/staff make smarter health choices. By combining advanced artificial intelligence with practical nutrition insights. It analyzes food, lifestyle & wellness data to deliver personalized recommendations. Its goal is to empower users/staff to improve their daily habits, track progress, & achieve healthier living through technology-driven guidance.
