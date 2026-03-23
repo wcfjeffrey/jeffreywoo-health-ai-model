@@ -101,3 +101,10 @@ This project demonstrates how innovation can reshape personal wellness managemen
   <img src="assets/JeffreyWooHealth14.png" alt="JeffreyWooHealth14" width="1200" height="1100" />
   <img src="assets/JeffreyWooHealth15.png" alt="JeffreyWooHealth13" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth16.png" alt="JeffreyWooHealth14" width="1200" height="600" />
+
+## 👤 About the Author
+Jeffrey Woo — Qualified Accountant | Finance Transformation Leader | ERP & AI‑Driven Automation | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
+
+📧 Email: jeffreywoocf@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/wcfjeffrey/
+🐙 GitHub: https://github.com/wcfjeffrey/
