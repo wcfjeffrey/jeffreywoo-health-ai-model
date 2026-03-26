@@ -27,19 +27,16 @@ Most apps just count calories. **JeffreyWooHealth** goes further:
 - 📊 **Smarter Insights** — see your nutrition score, macros, and more — beyond just numbers  
 - 💪 **Sustainable Habits** — tools to help you lose weight, gain muscle, or maintain balance  
 
+## 💡Transformation Impact
+This project demonstrates how innovation can reshape personal wellness management by:  
+- Digitizing lifestyle & nutrition workflows with AI‑driven analysis.  
+- Empowering individuals to make informed, healthier decisions through personalized recommendations.  
+- Enhancing engagement & accountability with interactive dashboards & progress tracking.  
+- Driving digital transformation in health by turning raw data into actionable insights.  
+- Promoting responsible innovation with secure handling of sensitive health information.
+
 ## 🚀 Why Choose JeffreyWooHealth
 Whether you want to slim down, build strength, or simply live better every day, **JeffreyWooHealth** is your AI-powered guide to lasting wellness. It’s based on experts' advice, works everywhere, and keeps your data secure for privacy.
-
-## 📦 Getting Started
-1. Upload or take a photo of your meal
-2. Run **JeffreyWooHealth** to generate AI-powered nutrition insights
-3. Track progress toward your health goals
-
-## 🤖 Tech Stack
-- **Language** — TypeScript, HTML  
-- **Framework** — React (with Vite as the build tool)  
-- **UI** — Standard React components, styled via JSX/TSX
-- **Runtime** — Node.js
 
 ## 🍎 Nutritionist Theories Applied
 - **Macronutrient Balance (Carbohydrates, Proteins, Fats)**  
@@ -55,14 +52,6 @@ The app leverages population-level findings (e.g., Mediterranean diet benefits, 
 - **Behavioral Nutrition Models**  
 Inspired by Social Cognitive Theory and Health Belief Model, the app nudges users toward sustainable eating habits, not just short-term diets.
 
-## 💡Transformation Impact
-This project demonstrates how innovation can reshape personal wellness management by:  
-- Digitizing lifestyle & nutrition workflows with AI‑driven analysis.  
-- Empowering individuals to make informed, healthier decisions through personalized recommendations.  
-- Enhancing engagement & accountability with interactive dashboards & progress tracking.  
-- Driving digital transformation in health by turning raw data into actionable insights.  
-- Promoting responsible innovation with secure handling of sensitive health information.
-
 ## ⭐ Skills Strengthened
 - Full‑stack architecture for AI‑driven applications.  
 - Secure handling of sensitive health data with environment variables.  
@@ -70,8 +59,16 @@ This project demonstrates how innovation can reshape personal wellness managemen
 - File parsing & structured data transformation for actionable insights.  
 - State management in React (TypeScript + Vite) for interactive dashboards.
 
-## ⚖️ Disclaimer
-**JeffreyWooHealth** provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult qualified healthcare providers or professional nutritionists before making health-related decisions.
+## 🤖 Tech Stack
+- **Language** — TypeScript, HTML  
+- **Framework** — React (with Vite as the build tool)  
+- **UI** — Standard React components, styled via JSX/TSX
+- **Runtime** — Node.js
+
+## 📦 Getting Started
+1. Upload or take a photo of your meal
+2. Run **JeffreyWooHealth** to generate AI-powered nutrition insights
+3. Track progress toward your health goals
 
 ## ⚙️ Run Locally
 
@@ -101,6 +98,9 @@ This project demonstrates how innovation can reshape personal wellness managemen
   <img src="assets/JeffreyWooHealth14.png" alt="JeffreyWooHealth14" width="1200" height="1100" />
   <img src="assets/JeffreyWooHealth15.png" alt="JeffreyWooHealth13" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth16.png" alt="JeffreyWooHealth14" width="1200" height="600" />
+
+## ⚖️ Disclaimer
+**JeffreyWooHealth** provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult qualified healthcare providers or professional nutritionists before making health-related decisions.
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
