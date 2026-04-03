@@ -100,7 +100,15 @@ Inspired by Social Cognitive Theory and Health Belief Model, the app nudges user
   <img src="assets/JeffreyWooHealth16.png" alt="JeffreyWooHealth14" width="1200" height="600" />
 
 ## ⚖️ Disclaimer
-**JeffreyWooHealth** provides AI-driven insights for informational purposes only. It does not offer medical advice, diagnosis, or treatment. Please consult qualified healthcare providers or professional nutritionists before making health-related decisions.
+**JeffreyWooHealth** provides AI-driven insights for informational, educational, and demonstration purposes only. It does not constitute professional medical advice, diagnosis, or treatment.
+
+The AI‑generated insights, suggestions, or analyses are based on models that may produce inaccurate, incomplete, or inappropriate outputs. They are not a substitute for professional medical judgment.
+
+Please always consult qualified healthcare providers or professional nutritionists before making health-related decisions or changes to your lifestyle, diet, or medication. The developer assumes no liability for any injuries, losses, or damages arising from the use of this app.
+
+Do not use this application in emergencies. If you have a medical emergency, contact your local emergency services immediately.
+
+Use at your own risk.
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
