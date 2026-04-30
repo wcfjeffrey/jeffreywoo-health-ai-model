@@ -99,6 +99,45 @@ Inspired by Social Cognitive Theory and Health Belief Model, the app nudges user
   <img src="assets/JeffreyWooHealth15.png" alt="JeffreyWooHealth13" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth16.png" alt="JeffreyWooHealth14" width="1200" height="600" />
 
+## 📐Data Flow and Logic Sequence
+
+```mermaid
+flowchart TD
+    subgraph PHASE1["Phase 1: Data Input"]
+        direction TB
+        A1["Take Photo of Meal"] --> A2["Upload Image"]
+        A2 --> A3["Scan Nutrition Label"]
+        A3 --> A4["Image Sent to Backend"]
+    end
+
+    subgraph PHASE2["Phase 2: AI Analysis"]
+        direction TB
+        B1["Gemini API Processes Image"] --> B2["Identify Food Items"]
+        B2 --> B3["Estimate Portion Sizes"]
+        B3 --> B4["Calculate Nutrition Score"]
+        B4 --> B5["Extract Macros Carbs/Protein/Fat"]
+    end
+
+    subgraph PHASE3["Phase 3: Personalized Recommendations"]
+        direction TB
+        C1["Calculate BMR and TEE"] --> C2["Apply Harris-Benedict or Mifflin-St Jeor"]
+        C2 --> C3["Adjust for Activity Level"]
+        C3 --> C4["Compare with RDA and AMDR"]
+        C4 --> C5["Generate Personalized Meal Plan"]
+    end
+
+    subgraph PHASE4["Phase 4: Results Display"]
+        direction TB
+        D1["Show Nutrition Dashboard"] --> D2["Display Macronutrient Breakdown"]
+        D2 --> D3["Show Glycemic Impact"]
+        D3 --> D4["Provide Actionable Suggestions"]
+    end
+
+    A4 --> B1
+    B5 --> C1
+    C5 --> D1
+```
+
 ## ⚖️ Disclaimer
 **JeffreyWooHealth** provides AI-driven insights for informational, educational, and demonstration purposes only. It does not constitute professional medical advice, diagnosis, or treatment.
 
