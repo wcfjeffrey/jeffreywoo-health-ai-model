@@ -54,6 +54,14 @@ Inspired by Social Cognitive Theory and Health Belief Model, the app nudges user
 
 ## 📐Data Flow and Logic Sequence
 
+The following diagram illustrates how the app transforms a user's meal photo into personalized nutrition recommendations, applying the nutritionist theories described above — from image capture through Gemini API analysis to BMR/TEE calculations and final dashboard display.
+
+> **How to read this diagram:** The flow follows 4 phases:
+> 1. **Data Input** — User captures meal photo
+> 2. **AI Analysis** — Gemini API identifies food & nutrition
+> 3. **Personalized Recommendations** — BMR/TEE + RDA/AMDR calculations
+> 4. **Results Display** — Dashboard with macros & glycemic impact
+
 ```mermaid
 flowchart TD
     subgraph PHASE1["Phase 1: Data Input"]
