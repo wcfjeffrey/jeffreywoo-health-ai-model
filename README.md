@@ -146,6 +146,11 @@ flowchart TD
   <img src="assets/JeffreyWooHealth15.png" alt="JeffreyWooHealth13" width="1200" height="600" />
   <img src="assets/JeffreyWooHealth16.png" alt="JeffreyWooHealth14" width="1200" height="600" />
 
+## References
+
+- [Harris, J. A., & Benedict, F. G. (1918). A Biometric Study of Human Basal Metabolism. Proceedings of the National Academy of Sciences of the United States of America, 4(12), 370–373.](https://www.pnas.org/doi/10.1073/pnas.4.12.370)
+- [Mifflin, M. D., St Jeor, S. T., Hill, L. A., Scott, B. J., Daugherty, S. A., & Koh, Y. O. (1990). A new predictive equation for resting energy expenditure in healthy individuals. The American Journal of Clinical Nutrition, 51(2), 241–247.](https://www.sciencedirect.com/science/article/abs/pii/S0002916523166986?via%3Dihub)
+
 ## ⚖️ Disclaimer
 **JeffreyWooHealth** provides AI-driven insights for informational, educational, and demonstration purposes only. It does not constitute professional medical advice, diagnosis, or treatment.
 
